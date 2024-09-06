@@ -1,8 +1,6 @@
 # 💫 About Me:
 **What's up, this is Kyle, a high school student in the Bay Area.**
 
-**CTO of [Empower Her Period](https://empowerherperiod.com)**
-
 📬 Email: <kj@kylejin.com> 🧑‍💻 Website: <https://kylejin.com>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kylejinkc)
