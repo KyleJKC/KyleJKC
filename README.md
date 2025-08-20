@@ -1,4 +1,3 @@
-# 💫 About Me:
 **What's up, this is Kyle, a high school student in the Bay Area.**
 
 📬 Email: <kj@kylejin.com> 🧑‍💻 Website: <https://kylejin.com>
