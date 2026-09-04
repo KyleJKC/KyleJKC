@@ -1,4 +1,4 @@
-**What's up, this is Kyle, a high school student in the Bay Area.**
+**What's up, this is Kai Cheng, also known as Kyle. I do some interesting stuff.**
 
 📬 Email: <kj@kylejin.com> 🧑‍💻 Website: <https://kylejin.com>
 
